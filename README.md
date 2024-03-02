@@ -1,1 +1,2 @@
-Something will be here soon.
+# GOIT-JS-HW-06
+
